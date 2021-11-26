@@ -1,0 +1,63 @@
+body{
+    margin:5px;
+    padding-top: 950px;
+    text-align:center;
+}
+
+.menu{
+    list-style: none;
+    font-family: 'Otomanopee One', sans-serif;
+    float: center;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:#b3f0ff;
+}
+#pic{
+    width:200px;
+    height:200;
+    border:20px;
+}
+.aboutme{
+    position:absolute;
+    height: 800px;
+    left:0px;
+    right:0px;
+    top:0px;
+    bottom:0px;
+    width:100px;
+    background color:#ff99ff;
+    color:#ff0066;
+}
+.bio{
+    text-align:center;
+    color:#d166cc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
